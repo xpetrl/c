@@ -1,2 +1,2 @@
 # c
-Developing in C code
+Developing in C code.
